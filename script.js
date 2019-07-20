@@ -32,7 +32,7 @@ let dimmer = $('.ts.dimmer');
 
 const languages = ["html","css","javascript"];
 
-const exampleContent = `<!DOCTYPE html>\n<html>\n    <head>\n        <title>Title</title>\n    </head>\n    <body>\n        <p>試試看，雖然我覺得不行。</p>\n    </body>\n</html>`;
+const exampleContent = `<!DOCTYPE html>\n<html>\n    <head>\n        <title>Title</title>\n    </head>\n    <body>\n        <p>Hello World!</p>\n    </body>\n</html>`;
 
 // initialize the environment    
 languages.forEach((lang) => {
